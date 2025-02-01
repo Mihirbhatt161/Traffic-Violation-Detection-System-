@@ -58,7 +58,7 @@ Ensure you have Python installed along with the required libraries:
 
 - View logs of detected violations.
 
-## Contributors
+## Contributor
 
 MIHIR BHATT 
 
